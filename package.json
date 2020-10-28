@@ -14,5 +14,9 @@
     "terser-webpack-plugin": "^5.0.3",
     "ws": "^7.3.1",
     "zlib-sync": "^0.1.7"
-  }
+  },
+  "scripts": {
+    "test": "echo rip. repl runner be messing up my tests."
+  },
+  "homepage": "a"
 }
