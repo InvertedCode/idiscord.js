@@ -1,0 +1,1 @@
+const Discord = require('./../src/index.js');
